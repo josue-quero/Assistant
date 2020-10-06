@@ -1,7 +1,7 @@
 # Assistant
 ### Download Assistant for high school certificates
 
-Assistant is a librery and a graphic interface to facilitate the parallel download of data from high school certificates.
+Assistant is a library and a graphic interface to facilitate the parallel download of data from high school certificates.
 
 ![](Assistant/assets/screenshots/Screenshot_Assistant.png) 
 
